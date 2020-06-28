@@ -23,3 +23,10 @@ Coming soon..
 - upgrade - upgrade packages
 - shutdown - Shutdown RPi
 - reboot - Reboot RPi
+
+## Usage :
+ Type the command followed by a / .
+ For example : To check the CPU Temperature;
+ ```
+ /temp
+ ```
