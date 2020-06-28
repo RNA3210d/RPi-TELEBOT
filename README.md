@@ -2,7 +2,7 @@
 
 Python based Telegram bot to monitor and control the raspberry pi.
 
-## Before you start
+## Setting up the bot
 - Install telepot library for enabling the Raspberry Pi to communicate with the Telegram bot using the API.
   ```
   sudo apt-get install python-pip
@@ -38,4 +38,4 @@ Python based Telegram bot to monitor and control the raspberry pi.
  ```
  /temp
  ```
-# Readme is still under construction LOL.
+# Readme is still under construction.
