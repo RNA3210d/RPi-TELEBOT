@@ -13,6 +13,8 @@ Python based Telegram bot to monitor and control the raspberry pi.
   ```
   bot = telepot.Bot('  Enter your Telegram bot API token here  ')
   ```
+ - Run *gpiotel20.py* as sudo 
+ - Try out the commands given below in the Telegram bot chat (see Usage section below)
 ## Commands:
 
 
@@ -21,20 +23,20 @@ Python based Telegram bot to monitor and control the raspberry pi.
 - ledoff1 - Switch off LED 1
 - ledon2 - Switch on LED 2
 - ledoff2 - Switch off LED 2
-- cpu - Get CPU info
-- usb - See connected USB devices
+- cpu - Get CPU info (lscpu)
+- usb - See connected USB devices (lsusb)
 - hi - To check if online
 - time - Returns time
 - date - Returns date
 - temp - CPU Temperature
-- repoupdate - update repositories 
-- upgrade - upgrade packages
-- shutdown - Shutdown RPi
-- reboot - Reboot RPi
+- repoupdate - update repositories (sudo apt-get update)
+- upgrade - upgrade packages (sudo apt-get upgrade -y)
+- shutdown - Shutdown RPi (sudo shutdown -h now)
+- reboot - Reboot RPi (sudo reboot)
 
 ## Usage :
- Type the command followed by a / .
- For example : To check the CPU Temperature;
+- Use ' / ' before each command
+- Example : To check the CPU Temperature;
  ```
  /temp
  ```
