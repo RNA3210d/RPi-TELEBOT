@@ -40,4 +40,6 @@ Python based Telegram bot to monitor and control the raspberry pi.
  ```
  /temp
  ```
-# Readme is still under construction.
+ 
+ In the name of love, <br />
+ RNA3210d
