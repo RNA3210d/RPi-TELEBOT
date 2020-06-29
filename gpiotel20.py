@@ -14,7 +14,7 @@ from gpiozero import CPUTemperature
 led1 = 5  #Set the GPIO pin number of LED 1
 led2 = 10 #Set the GPIO pin number of LED 2       
 
-GPIO.setmode(GPIO.BCM)     # Use Board pin numbering
+GPIO.setmode(GPIO.BCM)     
 GPIO.setup(led1, GPIO.OUT) # Declaring the output pin
 GPIO.setup(led2, GPIO.OUT) # Declaring the output pin
 
