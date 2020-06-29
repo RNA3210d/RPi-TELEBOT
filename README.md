@@ -9,12 +9,13 @@ Python based Telegram bot to monitor and control the raspberry pi.
   sudo pip install telepot
   ```
 - Request the BotFather to create a new Bot.
-- Paste the HTTP access token here :
+- Paste the HTTP access token here:
   ```
   bot = telepot.Bot('  Enter your Telegram bot API token here  ')
   ```
  - Run *gpiotel20.py* as sudo 
  - Try out the commands given below in the Telegram bot chat (see Usage section below)
+ - GPIO of led1 and led2 set as 5 and 10 respectively.
 ## Commands:
 
 
@@ -34,9 +35,9 @@ Python based Telegram bot to monitor and control the raspberry pi.
 - shutdown - Shutdown RPi (sudo shutdown -h now)
 - reboot - Reboot RPi (sudo reboot)
 
-## Usage :
+## Usage:
 - Use ' / ' before each command
-- Example : To check the CPU Temperature;
+- Example: To check the CPU Temperature;
  ```
  /temp
  ```
