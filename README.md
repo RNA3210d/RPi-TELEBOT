@@ -9,7 +9,7 @@ Python based Telegram bot to monitor and control the raspberry pi.
   sudo pip install telepot
   ```
 - Request the BotFather to create a new Bot.
-- Paste the HTTP access token here:
+- Paste the HTTP access token here (in the code):
   ```
   bot = telepot.Bot('  Enter your Telegram bot API token here  ')
   ```
