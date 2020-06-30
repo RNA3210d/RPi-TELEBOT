@@ -41,8 +41,6 @@ Python based Telegram bot to monitor and control the raspberry pi.
  ```
  /temp
  ```
- 
- <br />
 ## Tips:
 - See more about telegram bots here: https://core.telegram.org/bots
 - As the /repoupdate and /upgrade takes time you can use /ledon1 or /ledon2 command to alert you when the process is complete.
