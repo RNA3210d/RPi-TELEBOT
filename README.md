@@ -44,7 +44,7 @@ Python based Telegram bot to monitor and control the raspberry pi.
 ## Tips:
 - See more about telegram bots here: https://core.telegram.org/bots
 - As the /repoupdate and /upgrade takes time you can use /ledon1 or /ledon2 command to alert you when the process is complete.
-- If you are running this script on boot, refer : https://www.freedesktop.org/wiki/Software/systemd/NetworkTarget/ [systemd users]
+- If you are running this script on boot [systemd users] , refer : https://www.freedesktop.org/wiki/Software/systemd/NetworkTarget/ 
 ## Screenshots:
 ![Screenshot1](https://github.com/RNA3210d/RPi-TELEBOT/blob/master/snip1.png)
 ![Commands list](https://github.com/RNA3210d/RPi-TELEBOT/blob/master/scrn1.jpg)
