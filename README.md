@@ -1,6 +1,6 @@
 # RPi-TELEBOT
 
-Python based Telegram bot to monitor and control the headless raspberry pi servers.
+Python based Telegram bot to monitor and control the headless Raspberry Pi servers.
 
 ## Setting up the bot
 - Install telepot library for enabling the Raspberry Pi to communicate with the Telegram bot using the API.
