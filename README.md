@@ -15,7 +15,7 @@ Python based Telegram bot to monitor and control the headless Raspberry Pi serve
   ```
  - Run *gpiotel20.py* as sudo 
  - Try out the commands given below in the Telegram bot chat (see Usage section below)
- - GPIO of led1 and led2 set as 5 and 10 respectively(BCM numbering).
+ - GPIO of led1 and led2 set as 5 and 10 respectively (BCM numbering).
 ## Commands:
 
 
